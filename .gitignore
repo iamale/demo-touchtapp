@@ -1,0 +1,6 @@
+.cordova
+platforms
+plugins
+hooks
+node_modules
+www

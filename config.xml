@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="rocks.ale.touchtapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Touchtapp</name>
+  <description>
+    Application demonstrating the double-touch issue with react-tap-event-plugin.
+  </description>
+  <author email="ale@songbee.net" href="https://ale.rocks/">
+    Ale
+  </author>
+  <content src="index.html" />
+  <access origin="*" />
+</widget>

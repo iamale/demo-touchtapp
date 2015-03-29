@@ -1,0 +1,19 @@
+{
+  "name": "touchtapp",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "author": "Ale <ale@songbee.net>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.13.1",
+    "react-tap-event-plugin": "^0.1.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-rename": "^1.2.0",
+    "reactify": "^1.1.0",
+    "run-sequence": "^1.0.2"
+  }
+}
